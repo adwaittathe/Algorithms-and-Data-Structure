@@ -1,0 +1,8 @@
+Enter array Input size
+6
+Enter array elements
+12 8 17 2 9 25
+Input Array: [ 12 8 17 2 9 25 ] 
+Sorted Array: [ 2 8 9 12 17 25 ] 
+First Minimum: [ 8 9 ] 1
+Second Minimum: [ 9 12 ] 3

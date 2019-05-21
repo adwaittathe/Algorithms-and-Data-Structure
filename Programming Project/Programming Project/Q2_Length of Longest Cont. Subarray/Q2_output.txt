@@ -1,0 +1,8 @@
+Enter array Input size:
+5
+Enter array elements:
+7 1 3 5 2
+Input Array: [ 7 1 3 5 2 ] 
+Enter a number that needs to be greater than or equal to median of elements in sub array:
+4
+Length of longest subarray: 4
